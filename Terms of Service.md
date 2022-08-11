@@ -24,7 +24,7 @@ Your continued use of the "Service" after we announce any modifications to the T
 This Term of Service is effective as of **August 11th, 2022**, and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Modifications of the “Service”.
 
 ## Privacy Policy
-Please click [here](https://github.com/NekoOfficial/Terms-and-Policy/Privacy-Policy.md) to read our Privacy Policy
+Please click [here](https://github.com/NekoOfficial/Terms-and-Policy/blob/main/Privacy%20Policy.md) to read our Privacy Policy
 
 ## Suspension
 If you violate any Terms listed above, the "Service" developer reserve the right to issue you a warning regarding the violation or immediately suspend your access to the "Service", with or without reasons, depending on the offense.
