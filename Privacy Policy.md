@@ -1,6 +1,6 @@
 # Introduction
 
-Last Updated: 7th August, 2022
+Last Updated: 11th August, 2022
 
 Here at the Organization of the Neko Discord bot, one of our main priorities is the Privacy of our user's data. This Privacy Policy document contains the types of information that is collected and used by the developers (as referred collectively - "we", or "us"), and how we use it to provide service to our users.
 
