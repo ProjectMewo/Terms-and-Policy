@@ -34,7 +34,7 @@ While you have the rights to appeal your suspension to the "Service", we do not 
 ## Contact
 In order to resolve a complaint regarding the "Service", or to receive further information regarding use of it, please contact us at:
 
-**Email**: <i>TBA</i>
+**Email**: support@mewo.ga
 
 **Discord**: Akira#8853
 
