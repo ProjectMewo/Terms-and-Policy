@@ -50,7 +50,7 @@ This Privacy Policy is effective as of **August 11th, 2022**, and will remain in
 ## Contact
 In order to resolve a complaint regarding the "Service", or to receive further information regarding use of it, please contact us at:
 
-**Email**: <i>TBA</i>
+**Email**: support@mewo.ga
 
 **Discord**: Akira#8853
 
