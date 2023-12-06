@@ -1,6 +1,6 @@
 # Introduction
 
-Last Updated: 11th August, 2022
+Last Updated: 06th December, 2023
 
 Here at the Organization of the Neko Discord bot, one of our main priorities is the Privacy of our user's data. This Privacy Policy document contains the types of information that is collected and used by the developers (as referred collectively - "we", or "us"), and how we use it to provide service to our users.
 
@@ -50,8 +50,8 @@ This Privacy Policy is effective as of **August 11th, 2022**, and will remain in
 ## Contact
 In order to resolve a complaint regarding the "Service", or to receive further information regarding use of it, please contact us at:
 
-**Email**: support@mewo.ga
+**Email**: enquiries@iyowa.stabbed.me
 
-**Discord**: Akira#8853
+**Discord**: hashima.rin
 
 **Support Server**: [click here](https://discord.gg/bJemK26)
