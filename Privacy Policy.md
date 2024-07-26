@@ -2,13 +2,13 @@
 
 Last Updated: 14th of July, 2024
 
-Here at the Organization of the Neko Discord application, one of my main priorities is the Privacy of my user's data. This Privacy Policy document contains the types of information that is collected by me, "Shimeji" Rin (as referred collectively - "I", or "me"), and how I use it to provide service to my users.
+Here at the Organization of the Aoki Discord application, one of my main priorities is the Privacy of my user's data. This Privacy Policy document contains the types of information that is collected by me, "Shimeji" Rin (as referred collectively - "I", or "me"), and how I use it to provide service to my users.
 
 For additional questions, do not hesitate to contact me in [the Support Server on Discord](https://discord.gg/bJemK26), my personal Discord account - `shimeji.rin`, or directly through my email address - [sh1m3ji@disroot.org](mailto:sh1m3ji@disroot.org).
 
 ## Consent
 
-By using Neko (as referred collectively - "Service"), you consent to this Privacy Policy and agree to its Terms, also present in this Github repository.
+By using Aoki (as referred collectively - "Service"), you consent to this Privacy Policy and agree to its Terms, also present in this Github repository.
 
 ## Information I Collect
 

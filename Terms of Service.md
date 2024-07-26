@@ -1,5 +1,5 @@
 # Terms of Service
-By using Neko - which is collectively referred to as the "Service" - you, whether personally or on behalf of an entity, agree with the following Terms. If you disagree with any sections and/or any portions of these Terms, you are expressively prohibited from accessing the service.
+By using Aoki - which is collectively referred to as the "Service" - you, whether personally or on behalf of an entity, agree with the following Terms. If you disagree with any sections and/or any portions of these Terms, you are expressively prohibited from accessing the service.
 
 ## Terms
 By using the service, you immediately agree that you accept the Discord Terms of Service, and agree that your account can be suspended from using the service if you violate the Discord Terms of Service in any way.
@@ -24,7 +24,7 @@ Your continued use of the service after I announce any modifications to the Term
 This Term of Service is effective as of **August 11th, 2022**, and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the official modifications of the service.
 
 ## Privacy Policy
-Please click [here](https://github.com/NekoOfficial/Terms-and-Policy/blob/main/Privacy%20Policy.md) to read the Privacy Policy
+Please click [here](https://github.com/AokiOfficial/Terms-and-Policy/blob/main/Privacy%20Policy.md) to read the Privacy Policy
 
 ## Suspension
 If you violate any Terms listed above, I reserve the rights to issue you a warning regarding the violation, or immediately suspend your access to the service, with or without reasons, depending on the offense.
