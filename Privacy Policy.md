@@ -22,6 +22,8 @@ Your messages in any Discord server's channel with the service's presence (this 
 - However, I **do send your message to a third-party** to process the answer for your specific input, **if and only if** you explicitly match the algorithm's limited conditions, made clear by the function's description.
 - You can opt-out from having your messages collected and processed by explicitly stating you want to do so. Upon opting-out, (only) your User ID will be stored as a check to ignore your further messages.
 
+If a server you join utilizes Aoki's **verification feature** (that you may have to click a button and verify with your [osu!](https://osu.ppy.sh) account), Aoki **will** store your osu! profile in its database. You can also opt-out from having this data collected (in the future) by explicitly stating you want to do so. Upon opting-out, (only) your User ID will be stored as a check to not store your account details. You can check out the code to store that [here](https://github.com/ProjectMewo/Aoki/blob/3040146fee867b9c181ef5f952863b20f47fd9c4/src/web/handlers/verify.ts#L210).
+
 ## How I utilize your information
 
 I use the information I collect in various ways, including to:
